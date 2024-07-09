@@ -35,4 +35,32 @@
   color: rgb(255, 255, 255);
   font-size: 72px;
   font-weight: 900;
+  text-align: center;
+}
+
+/* 65% off style */
+.discunt-off-content {
+  width: 802.9px;
+  height: 806px;
+  margin: 0 auto;
+  margin-top: 30px;
+  text-align: center;
+}
+.discunt-text {
+  color: rgb(255, 0, 0);
+  font-size: 88px;
+  font-weight: 700;
+}
+.discunt-catagori p {
+  color: rgb(255, 0, 0);
+  font-size: 24px;
+  font-weight: 500;
+}
+.discunt-catagori h2 {
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+    font-weight: 700;
+}
+.discunt-img{
+    margin-top: 48px;
 }
